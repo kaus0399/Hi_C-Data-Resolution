@@ -1,6 +1,11 @@
 ## Introduction
 This is a package for HiCplus, which requires .hic file to train CNN model and with this model you can enhance the resolution of your hic data. High memory and GPU are not necessary when predicting to a high resolution matrix(e.g.10kb).
 
+I have made modifications to the code. The original code and repository can be found at the following link  
+https://github.com/wangjuan001/hicplus  
+
+Full credit goes to the original developers. I have only made minor modifications within each script based off my goals for this project. 
+
 ## Citation
 Yan Zhang, Lin An, Jie Xu, Bo Zhang, W. Jim Zheng, Ming Hu, Jijun Tang & Feng Yue. Enhancing Hi-C data resolution with deep convolutional neural network HiCPlus. https://doi.org/10.1038/s41467-018-03113-2.  
 

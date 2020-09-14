@@ -1,4 +1,6 @@
 ## Introduction
+Final Project for BIM 189 at UC Davis
+
 This is a package for HiCplus, which requires .hic file to train CNN model and with this model you can enhance the resolution of your hic data. High memory and GPU are not necessary when predicting to a high resolution matrix(e.g.10kb).
 
 I have made modifications to the code. The original code and repository can be found at the following link  

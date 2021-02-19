@@ -6,7 +6,7 @@ This is a package for HiCplus, which requires .hic file to train CNN model and w
 I have made modifications to the code. The original code and repository can be found at the following link  
 https://github.com/wangjuan001/hicplus  
 
-Full credit goes to the original developers. I have made minor modifications within each script based off my goals for this project. 
+Full credit goes to the original developers. My modifications within each script are tailored towards my personal needs for this project. 
 
 ## Citation
 Yan Zhang, Lin An, Jie Xu, Bo Zhang, W. Jim Zheng, Ming Hu, Jijun Tang & Feng Yue. Enhancing Hi-C data resolution with deep convolutional neural network HiCPlus. https://doi.org/10.1038/s41467-018-03113-2.  
